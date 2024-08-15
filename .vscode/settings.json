@@ -43,5 +43,6 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "breadcrumbs.enabled": false
 }
